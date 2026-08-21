@@ -29,6 +29,7 @@
 ## Wider Bilibili
 
 - [Wider Bilibili（Greasy Fork）](https://greasyfork.org/zh-CN/scripts/474507-wider-bilibili)
+- [Wider Bilibili（GitHub）](https://github.com/posthumz/wider-bilibili)
 
 ## 作者
 
