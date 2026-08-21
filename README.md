@@ -34,7 +34,3 @@
 ## UserStyles.world
 
 - [Bilibili 隐藏顶栏并修复布局](https://userstyles.world/style/29767/bilibili)
-
-## 作者
-
-**LuoTaoMochi**
