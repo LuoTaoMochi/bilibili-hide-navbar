@@ -1,9 +1,12 @@
+/* ==UserStyle==
 @name         Bilibili隐藏顶栏并修复布局
 @namespace    bilibili-hide-navbar
 @version      1.0.0
 @description  专为Wider Bilibili配套设计的隐藏Bilibili顶部导航栏，并修复隐藏顶栏后产生的页面布局空白
 @author       LuoTaoMochi
-@homepageURL  https://greasyfork.org/zh-CN/scripts/474507-wider-bilibili
+@homepageURL  https://github.com/LuoTaoMochi/bilibili-hide-navbar
+@supportURL   https://userstyles.world/style/29767/bilibili
+@updateURL    https://raw.githubusercontent.com/LuoTaoMochi/bilibili-hide-navbar/main/bilibili-hide-navbar.user.css
 ==/UserStyle== */
 
 @-moz-document domain("bilibili.com") {
