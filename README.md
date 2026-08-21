@@ -1,0 +1,1 @@
+# bilibili-hide-navbar
