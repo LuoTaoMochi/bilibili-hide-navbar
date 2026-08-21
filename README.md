@@ -31,6 +31,10 @@
 - [Wider Bilibili（Greasy Fork）](https://greasyfork.org/zh-CN/scripts/474507-wider-bilibili)
 - [Wider Bilibili（GitHub）](https://github.com/posthumz/wider-bilibili)
 
+## UserStyles.world
+
+- [Bilibili 隐藏顶栏并修复布局](https://userstyles.world/style/29767/bilibili)
+
 ## 作者
 
 **LuoTaoMochi**
