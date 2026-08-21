@@ -8,7 +8,7 @@
 
 本 UserStyle 不属于 Wider Bilibili 官方项目，也不是 Wider Bilibili 官方发布的组件、插件或附属脚本。
 
-将 [`bilibili-hide-navbar.user.css`](./bilibili-hide-navbar.user.css) 安装到支持 UserCSS 的样式管理器（如 Stylus）中即可使用。
+可直接从 [UserStyles.world](https://userstyles.world/style/29767/bilibili) 安装本 UserStyle，或将 [`bilibili-hide-navbar.user.css`](./bilibili-hide-navbar.user.css) 安装到支持 UserCSS 的样式管理器（如 Stylus）中。
 
 ## 代码来源与修改说明
 
