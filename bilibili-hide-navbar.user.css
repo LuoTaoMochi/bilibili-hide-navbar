@@ -1,0 +1,31 @@
+/* ==UserStyle==
+@name         Bilibili 隐藏顶栏并修复布局
+@namespace    bilibili-hide-navbar
+@version      1.0.0
+@description  隐藏 Bilibili 顶部导航栏，并修复隐藏顶栏后产生的页面布局空白。本 UserStyle 专为 Wider Bilibili 配套设计。
+@author       LuoTaoMochi
+@homepageURL  https://greasyfork.org/zh-CN/scripts/474507-wider-bilibili
+==/UserStyle== */
+
+@-moz-document domain("bilibili.com") {
+    :root {
+        --navbar-height: 0px !important;
+    }
+
+    .bili-header-m > .nav-menu,
+    .z_top,
+    .z-top-container#bili-header-container {
+        visibility: hidden !important;
+        height: 0px !important;
+    }
+
+    #message-navbar,
+    body:not(.history-page) #biliMainHeader:not(.z-top-container),
+    .z-top-container:not(#biliMainHeader, .has-menu) {
+        max-height: 0px !important;
+    }
+
+    .link-top-container#tab-container {
+        top: 0px !important;
+    }
+}
