@@ -1,5 +1,7 @@
 # Bilibili 隐藏顶栏并修复布局
 
+[English](#bilibili-hide-navbar-and-fix-layout)
+
 隐藏 Bilibili 顶部导航栏，并修复隐藏顶栏后产生的页面布局空白。本 UserStyle 专为 [Wider Bilibili](https://greasyfork.org/zh-CN/scripts/474507-wider-bilibili) 配套设计。
 
 ## 使用
@@ -44,7 +46,7 @@
 
 ---
 
-# Bilibili Hide Navbar & Fix Layout
+# Bilibili Hide Navbar and Fix Layout
 
 Hide the Bilibili top navigation bar and fix the layout spacing caused by hiding it. This UserStyle is designed to work with [Wider Bilibili](https://greasyfork.org/en/scripts/474507-wider-bilibili).
 
@@ -54,7 +56,7 @@ This UserStyle depends on **Wider Bilibili**. Please install and enable Wider Bi
 
 This UserStyle is not an official project, component, plugin, or companion script published by Wider Bilibili.
 
-You can install this UserStyle directly from [UserStyles.world页面：Bilibili 隐藏顶栏并修复布局](https://userstyles.world/style/29767/bilibili), or install [`bilibili-hide-navbar.user.css`](./bilibili-hide-navbar.user.css) in a UserCSS-compatible style manager such as Stylus.
+You can install this UserStyle directly from [UserStyles.world: Bilibili Hide Navbar and Fix Layout](https://userstyles.world/style/29767/bilibili), or install [`bilibili-hide-navbar.user.css`](./bilibili-hide-navbar.user.css) in a UserCSS-compatible style manager such as Stylus.
 
 ## Changelog
 
@@ -86,4 +88,4 @@ Please refer to the upstream repository and its license files for the copyright 
 
 ## UserStyles.world
 
-- [Bilibili Hide Navbar & Fix Layout](https://userstyles.world/style/29767/bilibili)
+- [Bilibili Hide Navbar and Fix Layout](https://userstyles.world/style/29767/bilibili)
