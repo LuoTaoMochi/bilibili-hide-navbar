@@ -8,14 +8,14 @@
 
 本 UserStyle 不属于 Wider Bilibili 官方项目，也不是 Wider Bilibili 官方发布的组件、插件或附属脚本。
 
-可直接从 [UserStyles.world](https://userstyles.world/style/29767/bilibili) 安装本 UserStyle，或将 [`bilibili-hide-navbar.user.css`](./bilibili-hide-navbar.user.css) 安装到支持 UserCSS 的样式管理器（如 Stylus）中。
+可直接从 [UserStyles.world页面：Bilibili 隐藏顶栏并修复布局](https://userstyles.world/style/29767/bilibili) 安装本 UserStyle，或将 [`bilibili-hide-navbar.user.css`](./bilibili-hide-navbar.user.css) 安装到支持 UserCSS 的样式管理器（如 Stylus）中。
 
 ## 更新说明
 
 ### 1.0.1
 
-- 将样式适用范围从整个 `bilibili.com` 限制为已整理的官方播放相关 URL。
-- 补充普通视频、移动视频、特殊视频入口、Festival、番剧、课程、播放列表、连续播放、音频以及直播相关页面的 URL 匹配。
+- 将样式适用范围从整个 `bilibili.com` 限制为播放相关 URL
+- （普通视频、移动视频、特殊视频入口、Festival、番剧、课程、播放列表、连续播放、音频以及直播相关页面的 URL 匹配）
 
 ## 代码来源与修改说明
 
