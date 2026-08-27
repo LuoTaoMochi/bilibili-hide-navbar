@@ -1,5 +1,7 @@
 # Bilibili 隐藏顶栏并修复布局
 
+[English](./README_EN.md)
+
 隐藏 Bilibili 顶部导航栏，并修复隐藏顶栏后产生的页面布局空白。本 UserStyle 专为 [Wider Bilibili](https://greasyfork.org/zh-CN/scripts/474507-wider-bilibili) 配套设计。
 
 ## 使用
