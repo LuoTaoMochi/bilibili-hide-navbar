@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name         Bilibili隐藏顶栏并修复布局
 @namespace    bilibili-hide-navbar
-@version      1.1.0
+@version      1.0.1
 @description  专为Wider Bilibili配套设计的隐藏Bilibili顶部导航栏，并修复隐藏顶栏后产生的页面布局空白
 @author       LuoTaoMochi
 @homepageURL  https://github.com/LuoTaoMochi/bilibili-hide-navbar
@@ -9,20 +9,25 @@
 @updateURL    https://raw.githubusercontent.com/LuoTaoMochi/bilibili-hide-navbar/main/bilibili-hide-navbar.user.css
 ==/UserStyle== */
 
-@-moz-document domain("bilibili.com") {
-    /* 官方站内播放页：
+@-moz-document
+    url-prefix("https://www.bilibili.com/video/"),
+    url-prefix("https://www.bilibili.com/s/video/"),
+    url-prefix("https://www.bilibili.com/festival/"),
+    url-prefix("https://www.bilibili.com/bangumi/play/"),
+    url-prefix("https://www.bilibili.com/cheese/play/"),
+    url-prefix("https://www.bilibili.com/list/"),
+    url-prefix("https://www.bilibili.com/medialist/play/"),
+    url-prefix("https://m.bilibili.com/video/"),
+    url-prefix("https://live.bilibili.com/") {
+    /* v1.0.1：将原先的全站 bilibili.com 匹配改为仅匹配官方播放相关页面
        /video/BV... /video/av...
        /s/video/BV...
-       /festival/...?...bvid=BV...
+       /festival/...
        /bangumi/play/ep... /bangumi/play/ss...
        /cheese/play/ep... /cheese/play/ss...
        /list/... /medialist/play/...
-       /medialist/play/watchlater
-       live.bilibili.com/{roomId}
-       live.bilibili.com/blanc/{roomId}
-       live.bilibili.com/record/...
-       live.bilibili.com/festival/...?...bvid=BV...
-       live.bilibili.com/h5/...
+       m.bilibili.com/video/...
+       live.bilibili.com/...
     */
     :root {
         --navbar-height: 0px !important;
