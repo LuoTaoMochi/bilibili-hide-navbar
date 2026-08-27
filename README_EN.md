@@ -15,7 +15,7 @@ You can install this UserStyle directly from [UserStyles.world: Bilibili Hide Na
 ### 1.0.1
 
 - Restricted the style's scope from the entire `bilibili.com` domain to playback-related URLs
-- Added URL matching for regular videos, mobile videos, special video entry points, Festival pages, anime/series, courses, playlists, continuous playback, audio, and live-related pages
+- Added URL matching for regular videos, mobile videos, special video entry points, Festival, anime/series, courses, playlists, continuous playback, audio, and live-related pages
 
 ## Code Sources and Modifications
 
