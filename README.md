@@ -10,6 +10,13 @@
 
 可直接从 [UserStyles.world](https://userstyles.world/style/29767/bilibili) 安装本 UserStyle，或将 [`bilibili-hide-navbar.user.css`](./bilibili-hide-navbar.user.css) 安装到支持 UserCSS 的样式管理器（如 Stylus）中。
 
+## 更新说明
+
+### 1.1.0
+
+- 补充 Bilibili 官方站内播放页 URL 覆盖范围说明，包括普通视频、番剧、课程、播放列表、Festival 页面以及直播相关播放页面。
+- 不修改原有隐藏顶栏与布局修复 CSS 规则。
+
 ## 代码来源与修改说明
 
 本 UserStyle 由 **LuoTaoMochi** 整理、修改并重新组合。
