@@ -1,7 +1,5 @@
 # Bilibili 隐藏顶栏并修复布局
 
-[English](./README_EN.md)
-
 隐藏 Bilibili 顶部导航栏，并修复隐藏顶栏后产生的页面布局空白。本 UserStyle 专为 [Wider Bilibili](https://greasyfork.org/zh-CN/scripts/474507-wider-bilibili) 配套设计。
 
 ## 使用
@@ -56,7 +54,7 @@ This UserStyle depends on **Wider Bilibili**. Please install and enable Wider Bi
 
 This UserStyle is not an official project, component, plugin, or companion script published by Wider Bilibili.
 
-You can install this UserStyle directly from [UserStyles.world: Bilibili Hide Navbar & Fix Layout](https://userstyles.world/style/29767/bilibili), or install [`bilibili-hide-navbar.user.css`](./bilibili-hide-navbar.user.css) in a UserCSS-compatible style manager such as Stylus.
+You can install this UserStyle directly from [UserStyles.world页面：Bilibili 隐藏顶栏并修复布局](https://userstyles.world/style/29767/bilibili), or install [`bilibili-hide-navbar.user.css`](./bilibili-hide-navbar.user.css) in a UserCSS-compatible style manager such as Stylus.
 
 ## Changelog
 
